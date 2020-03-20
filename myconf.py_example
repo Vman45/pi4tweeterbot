@@ -1,0 +1,5 @@
+CONSUMER_KEY = 'nonvalidexample'
+CONSUMER_SECRET = 'nonvalidexample'
+ACCESS_TOKEN = 'nonvalidexample'
+ACCESS_SECRET = 'nonvalidexample'
+
